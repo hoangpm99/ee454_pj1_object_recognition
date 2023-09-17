@@ -1,4 +1,4 @@
-# ee454_pj1_object_recognition
+# CMPEN/EE 454, PROJECT 1
 The goal of this project is to implement the forward pass of a convolutional neural net (CNN) for
 object recognition in Matlab. One of the eye-opening developments in computer vision in recent
 few years is that a cascade or chain of very simple image processing operations can outperform
